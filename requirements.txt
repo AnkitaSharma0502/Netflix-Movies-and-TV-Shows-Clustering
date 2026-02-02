@@ -11,7 +11,7 @@ python-dotenv==1.0.1
 
 # Data Processing
 pandas==2.2.2
-numpy==2.0.1
+numpy==1.26.4
 
 # Machine Learning
 scikit-learn==1.5.1
@@ -23,3 +23,4 @@ scipy==1.13.1
 # pytest==8.2.2  # For testing
 # black==24.4.2  # For code formatting
 # flake8==7.1.0  # For linting
+
