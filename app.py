@@ -7,7 +7,7 @@ import os
 # =============================
 # CONFIG
 # =============================
-API_BASE = "http://127.0.0.1:8000"
+API_BASE = "https://netflix-movies-and-tv-shows-clustering.onrender.com" or "http://127.0.0.1:8000"
 
 POSTER_WIDTH = 280
 POSTER_HEIGHT = 420
